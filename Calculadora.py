@@ -1,3 +1,4 @@
+#calculadora de python con bucle infinito
 def calculadora():
     print("🔢 Bienvenido a la Calculadora. Escribe 'q' en la operación para salir.")
     
