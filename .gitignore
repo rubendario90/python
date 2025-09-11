@@ -36,5 +36,6 @@ ENV/
 .DS_Store
 Thumbs.db
 
-# Consumption reports
+# Consumption reports and data
 consumption_reports/
+consumption_data.json
