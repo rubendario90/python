@@ -1,0 +1,26 @@
+# Dependencias del Sistema de Aprobaciones
+# 
+# Este archivo especifica las dependencias Python necesarias
+# para el sistema de aprobaciones con correos electrónicos
+
+# Librerías estándar de Python (incluidas en instalación base)
+# - smtplib: Para envío de correos SMTP
+# - email: Para crear mensajes de correo
+# - logging: Para sistema de logs
+# - datetime: Para manejo de fechas
+# - unittest: Para tests
+# - os: Para variables de entorno
+
+# No se requieren dependencias externas adicionales
+# El sistema usa únicamente librerías estándar de Python 3.x
+
+# Para instalación en producción:
+# pip install -r requirements.txt
+
+# Opcional para desarrollo:
+# - pytest>=6.0.0 (alternativa a unittest)
+# - coverage>=5.0.0 (para análisis de cobertura de tests)
+
+# Si se desea usar pytest en lugar de unittest:
+# pytest>=6.0.0
+# coverage>=5.0.0
